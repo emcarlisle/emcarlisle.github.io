@@ -1,5 +1,35 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Bad Script', cursive;
+    text-align: center;
+    color: black
+}
+
+#main-bio {
+    text-align: center;
+}
+
 img {
     border-radius:50%;
     height: 250px;
     width: 250px;
+}
+
+p {
+    font-family: 'Bad Script', cursive;
+    font-weight: bold;
+    color: teal;
+}
+
+#contact-info {
+    text-align: center;
+    color: grey;
+}
+
+#ul li {
+    list-style-type: none;
 }
